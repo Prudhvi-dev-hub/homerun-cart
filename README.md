@@ -46,7 +46,11 @@ src/components/icons/CartIcon.tsx → clean SVG cart icon
 src/data/products.json → static list of products
 
 🚀 How to run it yourself
+
 git clone https://github.com/Prudhvi-dev-hub/homerun-cart.git
+
 cd homerun-cart
+
 npm install
+
 npm run dev
