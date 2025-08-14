@@ -54,3 +54,10 @@ cd homerun-cart
 npm install
 
 npm run dev
+  
+Screenshots
+
+<img width="1364" height="682" alt="Homerun-homepage" src="https://github.com/user-attachments/assets/d79afb88-5e60-49de-8df8-82dc1169b71b" />
+
+<img width="566" height="991" alt="Homerun-responsivness" src="https://github.com/user-attachments/assets/41d1df8e-6ad2-4738-9a0d-40a7588c7372" />
+
