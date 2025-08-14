@@ -1,4 +1,3 @@
-import React from "react";
 import { useCart } from "../context/CartContext";
 
 export default function QuantityControls({ id, qty }: { id: string; qty: number }) {
