@@ -1,4 +1,4 @@
-🛒 Cement Store – Product Listing + Cart Demo
+🛒 HomeRun Cart – Product Listing + Cart Demo
 
 This is a small e-commerce style project I built to demonstrate my frontend skills.
 Think of it as a cement store where you can browse products, add them to your cart, adjust quantities, and see everything update instantly.
