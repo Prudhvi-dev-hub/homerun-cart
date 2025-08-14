@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cement-ultra",
+    "name": "Ultra Cement 50kg",
+    "price": 360,
+    "mrp": 420,
+    "discount": 14,
+    "image": "https://home-run.co/cdn/shop/files/JSWEnduroplast.webp?v=1730802494&width=360"
+  },
+  {
+    "id": "cement-max",
+    "name": "Max Strength Cement 50kg",
+    "price": 400,
+    "mrp": 450,
+    "discount": 11,
+    "image": "https://home-run.co/cdn/shop/files/MYK_Laticrete_305_Tile_Adhesive_Grey_30_Kg_Bag.webp?v=1740989582&width=360"
+  },
+  {
+    "id": "cement-pro",
+    "name": "Pro Grade Cement 50kg",
+    "price": 390,
+    "mrp": 440,
+    "discount": 11,
+    "image": "https://home-run.co/cdn/shop/files/Birla_Super_OPC_53_Grade_Cement_50_Kg_Bag.webp?v=1740486830&width=360"
+  },
+  {
+    "id": "cement-eco",
+    "name": "Eco Build Cement 50kg",
+    "price": 350,
+    "mrp": 400,
+    "discount": 13,
+    "image": "https://home-run.co/cdn/shop/files/Ramco_Cement_OPC_53_Grade_50_Kg_Bag_new.webp?v=1740487273&width=360"
+  },
+  {
+    "id": "cement-maha",
+    "name": "Maha Build Cement 50kg",
+    "price": 390,
+    "mrp": 430,
+    "discount": 9,
+    "image": "https://home-run.co/cdn/shop/files/Maha_PPC_Cement_50_Kg_Bag_new.webp?v=1740485717&width=360"
+  }
+]
