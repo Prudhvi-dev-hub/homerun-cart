@@ -15,13 +15,13 @@ You can’t add more than 20 units of a single product (and you’ll see a frien
 
 The cart icon in the navbar always shows the total number of items across products, updating in real time.
 
-Everything you add stays in the cart even if you refresh the page, thanks to localStorage.
+Everything you add stays in the cart even if you refresh the page build it with help of localStorage.
 
 The design is responsive (mobile → desktop), styled with TailwindCSS, and uses the exact brand green #328616 for the CTAs.
 
 🛠️ How I built it
 
-React 18 + Vite + TypeScript for a fast dev experience.
+React 18 + Vite + TypeScript
 
 Context API with useReducer to manage global cart state in a clean, scalable way.
 
@@ -33,17 +33,17 @@ localStorage integration to persist the cart between page reloads.
 
 📂 How the code is organized
 
-src/context/CartContext.tsx → brains of the cart (state + reducer)
+src/context/CartContext.tsx ~ brains of the cart (state + reducer)
 
-src/components/Header.tsx → navbar with logo, links, and cart badge
+src/components/Header.tsx ~ navbar with logo, links, and cart badge
 
-src/components/ProductCard.tsx → product tile with Add/Qty logic
+src/components/ProductCard.tsx ~ product tile with Add/Qty logic
 
-src/components/QuantityControls.tsx → +1 / -1 / +5 / -5 buttons
+src/components/QuantityControls.tsx ~ +1 / -1 / +5 / -5 buttons
 
-src/components/icons/CartIcon.tsx → clean SVG cart icon
+src/components/icons/CartIcon.tsx ~ clean SVG cart icon
 
-src/data/products.json → static list of products
+src/data/products.json ~ static list of products
 
 🚀 How to run it yourself
 
@@ -54,6 +54,7 @@ cd homerun-cart
 npm install
 
 npm run dev
+
 
 📷 Screenshots
 
